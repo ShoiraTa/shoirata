@@ -11,8 +11,7 @@ I am a full time student at Microverse, learning Full Stack Web Development.
 - ⚡ Quote: The purpose of our lives is to be happy.
 - 📫 How to reach me:
 
- [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)   
- [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmail logo" width="40">](shoira.shakirovna@gmail.com)
+ [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmaillogo" width="40">](shoira.shakirovna@gmail.com)
 
 
 
