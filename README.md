@@ -5,13 +5,14 @@
 :heart: Programming | :black_heart: Travelling | :blue_heart: Reading
   
 I am a full time student at Microverse, learning Full Stack Web Development. 
-<img align="right" alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" width="300" />
+<img align="right" alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" width="330" />
 - 🌱 I’m currently learning Ruby | Full Stack Web development | UX & UI design
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: The purpose of our lives is to be happy.
 - 📫 How to reach me:
 
- [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)   [<https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmail logo" width="40">](shoira.shakirovna@gmail.com)
+ [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)   
+ [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmail logo" width="40">](shoira.shakirovna@gmail.com)
 
 
 
