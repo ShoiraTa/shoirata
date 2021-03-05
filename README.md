@@ -1,76 +1,43 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+     <p align="center">
+  
+  
+### 👋 Hello World ! 
+  
+:heart: Programming | :black_heart: Travelling | :blue_heart: Reading
+  
+I am a full time student at Microverse, learning Full Stack Web Development. 
 
-# Project Name
+- 🌱 I’m currently learning Ruby | Full Stack Web development | UX & UI design
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: The purpose of our lives is to be happy.
+- 📫 How to reach me:
 
-> One paragraph statement about the project.
+| [<img src="https://github.com/shoirata/assets/github.png" alt="github logo" width="34">](https://github.com/shoirata) |  [<img src="https://github.com/shoirata/assets/Twitter.png" alt="twitter logo" width="34">](https://twitter.com/Shoira03) |  [<img src="https://github.coms/shoirata/assets/link.png" alt="linkedin logo" width="24">](linkedin.com/in/shoira-tashpulatova-bab4a7122) |  [<img src="https://github.com/shoirata/assets/email.png" alt="gmail logo" width="24">](shoira.shakirovna@gmail.com)
+|---|---|---|---|---|---|
 
-![screenshot](./app_screenshot.png)
+<img align="right" alt="Person coding gif" src="https://github.com/shoirata/assets/0_K2WLMTExLyida7OR(1).gif" width="200" />
+----
 
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+<br/>
+<br/>
 
 
-To get a local copy up and running follow these simple example steps.
+<h2 align="center">
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  
+.    
+   
 
-### Prerequisites
+![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true)
+-------
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+     📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
 
-## Authors
-
-👤 **Shoira**
-
-- GitHub: [@githubhandle](linkedin.com/in/shoira-tashpulatova-bab4a7122)
-- Twitter: [@twitterhandle](https://twitter.com/Shoira03)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+⭐️ From [@shoirata](https://github.com/shoirata)
