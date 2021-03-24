@@ -28,8 +28,8 @@ I am a full time student at Microverse, learning Full Stack Web Development. I l
 
   <p align="center">
    <a href="https://github.com/shoirata">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoirata&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&show_icons=true&theme=midnight-purple&layout=compact" alt="shoira" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoirata&show_icons=true&theme=midnight-white&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
 </p>
 </h3>
@@ -37,7 +37,7 @@ I am a full time student at Microverse, learning Full Stack Web Development. I l
 <h2> Let's connect 👨‍💻 and forge the future together.😁✌   </h2> 
 
 </br>
-<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/shoira-tashpulatova-bab4a7122/)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmaillogo" width="40">](shoira.shakirovna@gmail.com)
+[<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122) <img align="right" alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="320" />    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmaillogo" width="40">](shoira.shakirovna@gmail.com)
 
 **Check the Repositories and don't forget to give a star.** 👇
 
