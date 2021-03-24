@@ -37,7 +37,7 @@ I am a full time student at Microverse, learning Full Stack Web Development. I l
 <h2> Let's connect 👨‍💻 and forge the future together.😁✌   </h2> 
 
 </br>
-[<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](linkedin.com/in/shoira-tashpulatova-bab4a7122) <img align="right" alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="320" />    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmaillogo" width="40">](shoira.shakirovna@gmail.com)
+
 
 **Check the Repositories and don't forget to give a star.** 👇
 
