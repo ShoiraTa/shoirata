@@ -11,7 +11,7 @@
  
 I am a full time student at Microverse, learning Full Stack Web Development. I like  collaborating with others to build digital solutions that solve real-world problems.
 
-- 🌱 I’m currently learning Ruby | Full Stack Web development | UX & UI design
+- 🌱 I’m currently learning Ruby on Rails | Full Stack Web development | UX & UI design
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: The purpose of our lives is to be happy :heart:
 
