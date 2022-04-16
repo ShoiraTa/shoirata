@@ -12,8 +12,8 @@
 I’m a Full Stack Web developer, I like  collaborating with others to build digital solutions that solve real-world problems.
 
 - 🌱 I’m currently learning algorithms and data structures. 
-- 💬 Ask me about Ruby on Rails, React, restful APIs and Redux. I will try to help you as much as I can.
-- ⚡ Quote: The purpose of our lives is to be happy :heart:
+- 💬 Ask me about Ruby on Rails, React, restful APIs and Redux.
+- ⚡ Quote: Living, learning, & leveling up! :heart:
 
 <br/>
 
