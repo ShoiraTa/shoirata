@@ -2,18 +2,23 @@
   
 # 👋 Hello World!  Shoira is here!
 
-
- [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/shoirata)    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/Twitter.png" width="40">](https://twitter.com/Shoira03)   [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/shoira-ta/) <img align="right" alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="320" />    [<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/email.png" alt="gmaillogo" width="40">](shoira.shakirovna@gmail.com)
-
- ## More about me
-  
-:heart: Programming | :black_heart: Travelling | :blue_heart: Coffee
+<div width=100% align="center">
+  <img  alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="300" /> 
+ <div width="50%">
  
-I’m a Full Stack Web developer, I like  collaborating with others to build digital solutions that solve real-world problems.
+</div>
 
-- 🌱 I’m currently learning algorithms and data structures. 
-- 💬 Ask me about Ruby on Rails, React, restful APIs and Redux.
-- ⚡ Quote: Living, learning, & leveling up! :heart:
+<div align="left" width="50%">
+   ## More about me 
+
+  :heart: Programming | :black_heart: Travelling | :blue_heart: Coffee
+
+  I’m a Full Stack Web developer, I like  collaborating with others to build digital solutions that solve real-world problems.
+
+  - 🌱 I’m currently learning algorithms and data structures. 
+  - 💬 Ask me about Ruby on Rails, React, restful APIs and Redux.
+  - ⚡ Quote: Living, learning, & leveling up! :heart:
+<div>
 
 <br/>
 
@@ -24,6 +29,7 @@ I’m a Full Stack Web developer, I like  collaborating with others to build dig
     📈  &nbsp; My GitHub Stats
   </summary> 
   
+</h3>
   <br>
 
   <!-- ./STAT -->
@@ -32,8 +38,7 @@ I’m a Full Stack Web developer, I like  collaborating with others to build dig
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoirata&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
-</p>
-</h3>
+
 
 
 
