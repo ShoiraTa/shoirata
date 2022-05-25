@@ -9,7 +9,7 @@
 </div>
 
 <div align="left" width="50%">
-   ## More about me 
+  <h2> More about me </h2>
 
   :heart: Programming | :black_heart: Travelling | :blue_heart: Coffee
 
