@@ -26,24 +26,23 @@ I’m a Full Stack Web developer, I like  collaborating with others to build dig
   
   <br>
 
-  <p align="center">
-   <a href="https://github.com/shoirata">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoirata&show_icons=true&theme=midnight-white&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
-  </a>
+  <!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shoirata&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Shoira github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+</div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoirata&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
 </p>
 </h3>
 
-<h2> Let's connect 👨‍💻 and forge the future together.😁✌   </h2> 
-
-</br>
 
 
-**Check the Repositories and don't forget to give a star.** 👇
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shoirata}/count.svg" /></p> 
+<br></div>
 
-:star: From [shoirata](https://github.com/shoirata)
--------
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
 
 
 
